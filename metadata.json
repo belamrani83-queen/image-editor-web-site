@@ -1,0 +1,7 @@
+{
+  "name": "Studio Pro - AI Image Generator",
+  "description": "Professional high-resolution AI photography studio powered by gemini-3-pro-image-preview with 1K, 2K, and 4K image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
